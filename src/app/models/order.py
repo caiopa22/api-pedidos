@@ -12,7 +12,7 @@ class Order(Base):
     id: Mapped[int] = mapped_column(Integer, primary_key=True, index=True)
     product_name: Mapped[str] = mapped_column(String, nullable=False)
     quantity: Mapped[int] = mapped_column(Integer, nullable=False)
-    price: Mapped[float] = mapped_column(Float, nullable=False)
+    unit_price: Mapped[float] = mapped_column(Float, nullable=False)
     created_at: Mapped[datetime] = mapped_column(
         DateTime,
         nullable=False,
