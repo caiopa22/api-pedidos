@@ -24,13 +24,13 @@ def get_db():
 route = APIRouter()
 
 
-@route.get("/orders", response_model=list[OrderResponse])
+@route.get("", response_model=list[OrderResponse])
 def list_orders(skip: int = 0, limit: int = 100, db: Session = Depends(get_db)):
     """Get all orders with pagination"""
     return get_all_orders(db, skip=skip, limit=limit)
 
 
-@route.get("/orders/{order_id}", response_model=OrderResponse)
+@route.get("/{order_id}", response_model=OrderResponse)
 def get_order_by_id(order_id: int, db: Session = Depends(get_db)):
     """Get a single order by ID"""
     db_order = get_order(db, order_id)
@@ -39,13 +39,13 @@ def get_order_by_id(order_id: int, db: Session = Depends(get_db)):
     return db_order
 
 
-@route.post("/orders", response_model=OrderResponse, status_code=201)
+@route.post("", response_model=OrderResponse, status_code=201)
 def create_new_order(order: OrderCreate, db: Session = Depends(get_db)):
     """Create a new order"""
     return create_order(db, order)
 
 
-@route.put("/orders/{order_id}", response_model=OrderResponse)
+@route.put("/{order_id}", response_model=OrderResponse)
 def update_existing_order(
     order_id: int, order: OrderUpdate, db: Session = Depends(get_db)
 ):
@@ -56,7 +56,7 @@ def update_existing_order(
     return db_order
 
 
-@route.delete("/orders/{order_id}", status_code=204)
+@route.delete("/{order_id}", status_code=204)
 def delete_existing_order(order_id: int, db: Session = Depends(get_db)):
     """Delete an order"""
     success = delete_order(db, order_id)
