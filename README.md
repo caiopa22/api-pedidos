@@ -2,9 +2,29 @@
 
 ## Integrantes
 
-1. Nome completo: ________
-   Turma: ________
-   RA: ________
+1. Nome completo: Joice Jardim
+   E-mail: joice.jardim@aluno.unip.br
+   RA: N284DJ1
+
+2. Nome completo: Leticia Moura
+   E-mail: leticia.moura34@aluno.unip.br
+   RA: F350339
+
+3. Nome completo: Arthur Lima
+   E-mail: arthur.lima24@aluno.unip.br
+   RA: N284GB8
+
+4. Nome completo: Camila Martins
+   E-mail: camila.martins65@aluno.unip.br
+   RA: G78HFD0
+
+5. Nome completo: Caio Pacheco
+   E-mail: caio.andrade17@aluno.unip.br
+   RA: N089695
+
+6. Nome completo: FABRICIO GARCIA
+   E-mail: fabricio.garcia@aluno.unip.br
+   RA: R015017
 
 ## Visão geral
 
