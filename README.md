@@ -2,29 +2,29 @@
 
 ## Integrantes
 
-1. Nome completo: Joice Jardim
-   E-mail: joice.jardim@aluno.unip.br
-   RA: N284DJ1
+1. Nome completo: Camila Eiko Honda Martins
+   Turma: CC8P13
+   RA: G78HFD-0
 
-2. Nome completo: Leticia Moura
-   E-mail: leticia.moura34@aluno.unip.br
-   RA: F350339
+2. Nome completo: Leticia Costa de Moura
+   Turma: CC8Q13
+   RA: F35033-9
 
-3. Nome completo: Arthur Lima
-   E-mail: arthur.lima24@aluno.unip.br
-   RA: N284GB8
+3. Nome completo: Vitor De Souza Botelho
+   Turma: CC8P13
+   RA: G819AJ-9
 
-4. Nome completo: Camila Martins
-   E-mail: camila.martins65@aluno.unip.br
-   RA: G78HFD0
+4. Nome completo: Caio Pacheco Andrade
+   Turma: CC8P13
+   RA: N08969-5
 
-5. Nome completo: Caio Pacheco
-   E-mail: caio.andrade17@aluno.unip.br
-   RA: N089695
+5. Nome completo: Fabricio Garcia
+   Turma: CC7P13
+   RA: R01501-7
 
-6. Nome completo: Fabricio Garcia
-   E-mail: fabricio.garcia@aluno.unip.br
-   RA: R015017
+6. Nome completo: Brian Borges Santos Silva
+   Turma: CC7P13
+   RA: F35159-9
 
 ## Visão geral
 
