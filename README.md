@@ -22,7 +22,7 @@
    E-mail: caio.andrade17@aluno.unip.br
    RA: N089695
 
-6. Nome completo: FABRICIO GARCIA
+6. Nome completo: Fabricio Garcia
    E-mail: fabricio.garcia@aluno.unip.br
    RA: R015017
 
